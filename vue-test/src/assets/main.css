@@ -1,0 +1,17 @@
+.flex-column {
+  flex-direction: column;
+  justify-content: center;
+}
+.test-border {
+  border: 2px red solid;
+}
+.test-border-root {
+  border: 2px hotpink solid;
+  width: 100%;
+}
+.full-width {
+  width: 100%;
+}
+div * {
+  display: flex;
+}
